@@ -1,0 +1,389 @@
+diff --git a/async-reading/RESOURCE_INDEX.md b/async-reading/RESOURCE_INDEX.md
+new file mode 100644
+index 0000000..3094683
+--- /dev/null
++++ b/async-reading/RESOURCE_INDEX.md
+@@ -0,0 +1,194 @@
++# Resource Index
++
++All external resources referenced in the SFC async reading materials.
++
++**Total resources:** 24
++
++## Datasets & Data Sources
++
++### [EPA eGRID Power Profiler](https://www.epa.gov/egrid/power-profiler#/)
++
++- **Course:** `software-for-climate-2`
++- **Section:** Resources
++- **Type:** dataset
++
++### [EIA Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
++
++- **Course:** `software-for-climate-2`
++- **Section:** Resources
++- **Type:** dataset
++
++### [GridStatus.io](https://www.gridstatus.io/)
++
++- **Course:** `software-for-climate-2`
++- **Section:** Resources
++- **Type:** dataset
++
++### [Climate Tech List](https://climatetechlist.com/charts)
++
++- **Course:** `software-for-climate-2`
++- **Section:** Resources
++- **Type:** dataset
++
++### [Risk Factor](https://riskfactor.com/)
++
++- **Course:** `software-for-climate-2`
++- **Section:** Resources
++- **Type:** dataset
++
++---
++
++## Tools & Platforms
++
++### [Bits vs atoms: a framework for thinking about climate tech companies](https://www.climatetechlist.com/blog/bits-vs-atoms-framework)
++
++- **Course:** `software-for-climate-1-2`
++- **Section:** Resources
++- **Type:** tool
++
++---
++
++## Articles & Reading
++
++### [Speed & Scale](https://speedandscale.com/tracker/)
++
++- **Course:** `software-for-climate-1-2`
++- **Section:** Resources
++- **Type:** article
++
++### [Project Drawdown Solutions](https://drawdown.org/solutions)
++
++- **Course:** `software-for-climate-1-2`
++- **Section:** Resources
++- **Type:** article
++
++### [Solutions Sectors](https://drawdown.org/sectors)
++
++- **Course:** `software-for-climate-1-2`
++- **Section:** Resources
++- **Type:** article
++
++### [Guide to software in climate tech](https://www.climatepapa.com/software)
++
++- **Course:** `software-for-climate-1-2`
++- **Section:** Resources
++- **Type:** article
++
++### [What can a technologist do about climate change?](https://worrydream.com/ClimateChange)
++
++- **Course:** `software-for-climate-1-2`
++- **Section:** Resources
++- **Type:** article
++
++### [Inside methane monitoring’s big moment](https://www.ctvc.co/inside-methane-monitorings-big-moment/)
++
++- **Course:** `software-for-climate-3`
++- **Section:** Resources
++- **Type:** article
++
++### [Machine learning to detect mining deforestation across the amazon](https://www.maaproject.org/maap-212-machine-learning-to-detect-mining-deforestation-across-the-amazon/)
++
++- **Course:** `software-for-climate-3`
++- **Section:** Resources
++- **Type:** article
++
++### [How satellites, algorithms and AI can help map and trace methane sources](https://blog.google/outreach-initiatives/sustainability/how-satellites-algorithms-and-ai-can-help-map-and-trace-methane-sources/)
++
++- **Course:** `software-for-climate-3`
++- **Section:** Resources
++- **Type:** article
++
++### [AI will use a lot of energy. That's good for the climate.](https://climate.benjames.io/ai-go-brrr/)
++
++- **Course:** `software-for-climate-3`
++- **Section:** Resources
++- **Type:** article
++
++### [Growing Pains: the Renewable Transition in Adolescence](https://assets.jpmprivatebank.com/content/dam/jpm-wm-aem/campaign/energy-paper-13/growing-pains-renewable-transition-in-adolescence.pdf)
++
++- **Course:** `software-for-climate-4`
++- **Section:** Resources
++- **Type:** article
++
++### [Volts podcast: What's the deal with interconnection queues?](https://www.volts.wtf/p/whats-the-deal-with-interconnection)
++
++- **Course:** `software-for-climate-4`
++- **Section:** Resources
++- **Type:** article
++
++### [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
++
++- **Course:** `software-for-climate-5`
++- **Section:** Resources
++- **Type:** article
++
++### [Industry 4.0 and manufacturing ecosystems](https://www2.deloitte.com/content/dam/insights/us/articles/manufacturing-ecosystems-exploring-world-connected-enterprises/DUP_2898_Industry4.0ManufacturingEcosystems.pdf)
++
++- **Course:** `software-for-climate-5`
++- **Section:** Resources
++- **Type:** article
++
++### [ISA95 Pyramid](https://excelpro.ca/en/news/the-automation-pyramid-isa-95)
++
++- **Course:** `software-for-climate-5`
++- **Section:** Resources
++- **Type:** article
++
++### [first comment on this reddit thread](https://www.reddit.com/r/PLC/comments/2a5g4q/comment/ciry1u2/)
++
++- **Course:** `software-for-climate-5`
++- **Section:** Resources
++- **Type:** article
++
++---
++
++## Documentation & Guides
++
++### [A beginner’s guide to Python notebooks](https://hex.tech/blog/beginners-guide-to-python-notebooks/)
++
++- **Course:** `software-for-climate-1-1`
++- **Section:** Reading
++- **Type:** documentation
++
++### [An Architect’s Guide to Integrating Energy Modeling in the Design Process](https://content.aia.org/sites/default/files/2016-04/Energy-Modeling-Design-Process-Guide.pdf)
++
++- **Course:** `software-for-climate-4`
++- **Section:** Resources
++- **Type:** documentation
++
++### [how to read ladder logic​​​​​​](https://www.solisplc.com/tutorials/how-to-read-ladder-logic)
++
++- **Course:** `software-for-climate-5`
++- **Section:** Resources
++- **Type:** documentation
++
++---
++
++## All URLs (for link checking)
++
++```
++https://hex.tech/blog/beginners-guide-to-python-notebooks/
++https://speedandscale.com/tracker/
++https://drawdown.org/solutions
++https://drawdown.org/sectors
++https://www.climatepapa.com/software
++https://www.climatetechlist.com/blog/bits-vs-atoms-framework
++https://worrydream.com/ClimateChange
++https://www.epa.gov/egrid/power-profiler#/
++https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48
++https://www.gridstatus.io/
++https://climatetechlist.com/charts
++https://riskfactor.com/
++https://www.ctvc.co/inside-methane-monitorings-big-moment/
++https://www.maaproject.org/maap-212-machine-learning-to-detect-mining-deforestation-across-the-amazon/
++https://blog.google/outreach-initiatives/sustainability/how-satellites-algorithms-and-ai-can-help-map-and-trace-methane-sources/
++https://climate.benjames.io/ai-go-brrr/
++https://assets.jpmprivatebank.com/content/dam/jpm-wm-aem/campaign/energy-paper-13/growing-pains-renewable-transition-in-adolescence.pdf
++https://www.volts.wtf/p/whats-the-deal-with-interconnection
++https://content.aia.org/sites/default/files/2016-04/Energy-Modeling-Design-Process-Guide.pdf
++https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware
++https://www2.deloitte.com/content/dam/insights/us/articles/manufacturing-ecosystems-exploring-world-connected-enterprises/DUP_2898_Industry4.0ManufacturingEcosystems.pdf
++https://excelpro.ca/en/news/the-automation-pyramid-isa-95
++https://www.reddit.com/r/PLC/comments/2a5g4q/comment/ciry1u2/
++https://www.solisplc.com/tutorials/how-to-read-ladder-logic
++```
+\ No newline at end of file
+diff --git a/async-reading/SUGGESTED_UPDATES.md b/async-reading/SUGGESTED_UPDATES.md
+new file mode 100644
+index 0000000..9c590aa
+--- /dev/null
++++ b/async-reading/SUGGESTED_UPDATES.md
+@@ -0,0 +1,118 @@
++# Suggested Updates for SFC Async Reading
++
++Review completed: 2026-01-28
++
++## Summary
++
++- **Total resources reviewed:** 24
++- **Broken/inaccessible links:** 3
++- **Suggested replacements:** 3
++- **Potential new resources:** 8
++
++---
++
++## Broken Links (Action Required)
++
++### 1. ~~Project Drawdown Foundations~~ FIXED
++- **Original URL:** https://drawdown.org/drawdown-foundations
++- **Issue:** Returns 403 Forbidden
++- **Resolution:** Updated to https://drawdown.org/solutions (working, same content)
++- **Fixed:** 2026-01-28 (scm-5qq)
++- **Course:** software-for-climate-1-2
++
++### 2. EIA Hourly Electric Grid Monitor
++- **Current URL:** https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48
++- **Issue:** Connection timeout
++- **Replacement:** https://www.eia.gov/electricity/gridmonitor/dashboard/daily_generation_mix/US48/US48
++- **Note:** EIA has redesigned the dashboard; the new URL structure uses `daily_generation_mix` instead of `electric_overview`
++- **Course:** software-for-climate-2
++
++### 3. JP Morgan "Growing Pains" PDF
++- **Current URL:** https://assets.jpmprivatebank.com/content/dam/jpm-wm-aem/campaign/energy-paper-13/growing-pains-renewable-transition-in-adolescence.pdf
++- **Issue:** 404 Not Found
++- **Replacement:** https://am.jpmorgan.com/content/dam/jpm-am-aem/global/campaign/energy-paper-13/growing-pains-renewable-transition-in-adolescence.pdf
++- **Alternative:** https://privatebank.jpmorgan.com/content/dam/jpm-wm-aem/global/cwm/en/insights/eye-on-the-market/2023-annual-energy-paper-jpmwm.pdf
++- **Note:** PDF moved to different JP Morgan subdomain
++- **Course:** software-for-climate-4
++
++---
++
++## Resources That May Be Outdated
++
++### 1. Bret Victor's "What can a technologist do about climate change?"
++- **Current URL:** http://worrydream.com/ClimateChange
++- **Issue:** Article is from 2015 - over 10 years old
++- **Status:** Still valuable as foundational reading, but climate tech landscape has changed dramatically
++- **Recommendation:** Keep but supplement with more recent overview
++- **Suggested addition:** [MIT Technology Review - Three climate technologies breaking through in 2026](https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026)
++- **Course:** software-for-climate-1-2
++
++### 2. AIA Energy Modeling Guide
++- **Current URL:** https://content.aia.org/sites/default/files/2016-04/Energy-Modeling-Design-Process-Guide.pdf
++- **Issue:** From 2016 - 10 years old
++- **Status:** Principles still valid but tools have evolved
++- **Recommended addition:** [ClimateStudio](https://www.solemma.com/climatestudio) as modern alternative, or [IEA Global Energy and Climate Model Documentation 2025](https://powerlibrary.theelectricityhub.com/2025/12/10/global-energy-and-climate-model-documentation-2025-iea/)
++- **Course:** software-for-climate-4
++
++### 3. Deloitte Industry 4.0 Paper
++- **Current URL:** https://www2.deloitte.com/content/dam/insights/us/articles/manufacturing-ecosystems-exploring-world-connected-enterprises/DUP_2898_Industry4.0ManufacturingEcosystems.pdf
++- **Issue:** Pre-2020 publication
++- **Status:** Foundational concepts still relevant
++- **Recommendation:** Consider supplementing with more recent Industry 4.0/5.0 resources
++- **Course:** software-for-climate-5
++
++---
++
++## Suggested New Resources by Topic
++
++### Class 1-2: Software x Climate Landscape
++| Resource | Type | Rationale |
++|----------|------|-----------|
++| [10 Top Climate Tech Startups to Watch in 2026](https://www.startus-insights.com/innovators-guide/top-climate-tech-startups/) | Article | Current landscape of funded climate tech |
++| [Y Combinator Climate Startups 2026](https://www.ycombinator.com/companies/industry/climate) | Directory | Real-world examples of software in climate |
++| [Watershed Platform](https://watershed.com/) | Tool | Enterprise sustainability platform example |
++
++### Class 2: Public Data Sources
++| Resource | Type | Rationale |
++|----------|------|-----------|
++| [Carbon Mapper](https://carbonmapper.org/) | Tool | Satellite-based methane/CO2 detection |
++| [GHGSat](https://www.ghgsat.com/) | Tool | Commercial methane monitoring constellation |
++
++### Class 3: Geospatial + AI
++| Resource | Type | Rationale |
++|----------|------|-----------|
++| [Global methane leak map from satellites (2025)](https://phys.org/news/2025-12-global-fleet-satellites-methane-leaks.html) | Article | First-ever global map of industrial methane leaks |
++| [Vision transformer for methane detection (Nature 2024)](https://www.nature.com/articles/s41467-024-47754-y) | Paper | State-of-the-art ML for satellite imagery |
++| [AWS SageMaker Geospatial for methane monitoring](https://aws.amazon.com/blogs/machine-learning/detection-and-high-frequency-monitoring-of-methane-emission-point-sources-using-amazon-sagemaker-geospatial-capabilities/) | Tutorial | Practical implementation guide |
++
++### Class 4: Energy Modeling
++| Resource | Type | Rationale |
++|----------|------|-----------|
++| [LEAP - Low Emissions Analysis Platform](https://www.sei.org/tools/leap/) | Tool | Free energy/climate modeling tool for 146 countries |
++| [NEMO Energy Modeling System](https://www.sei.org/tools/nemo-the-next-energy-modeling-system-for-optimization/) | Tool | Modern optimization-based energy modeling |
++| [ClimateStudio](https://www.solemma.com/climatestudio) | Tool | Building energy modeling software |
++
++### Class 5: Software/Hardware Interfaces
++| Resource | Type | Rationale |
++|----------|------|-----------|
++| [Renewable Energy Software Trends 2026](https://tech-stack.com/blog/the-future-of-renewable-energy-software/) | Article | AI, digital twins, smart grids overview |
++
++---
++
++## Action Items
++
++1. **Immediate:** Fix the 3 broken links listed above
++2. **Review:** Manually verify Drawdown Foundations URL in browser
++3. **Consider:** Adding 2-3 new resources per class to keep content current
++4. **Optional:** Add publication dates to existing resources so staleness is visible
++
++---
++
++## Link Check Results
++
++Full automated link check results saved to: `link_check_results.json`
++
++### Summary
++- ✅ 21 URLs accessible
++- ⚠️ 7 URLs redirected (but working)
++- ❌ 3 URLs broken or inaccessible
+diff --git a/async-reading/class-1-1.md b/async-reading/class-1-1.md
+index f71fdfc..7c92f2b 100644
+--- a/async-reading/class-1-1.md
++++ b/async-reading/class-1-1.md
+@@ -28,11 +28,11 @@ This is a cohort-based course. It runs for eight weeks, with two classes per wee
+ 
+ 	- **Async reading** materials, presented in slides like this one
+ 
+-	- **Live sessions** involving lecutures, audience participation, group discussions, and Q&A
++	- **Live sessions** involving lectures, audience participation, group discussions, and Q&A
+ 
+ 	- **Homework** assignments
+ 
+-Additionally, we have a **cohort slack channel **for ad hoc communication with the instructors and your fellows in the cohort
++Additionally, we have a **cohort Slack channel** for ad hoc communication with the instructors and your fellows in the cohort
+ 
+  
+ 
+@@ -101,20 +101,18 @@ Depending on your familiarity with code in general and **Python** specifically,
+ 	- If you already write python, close your laptop and grab a beer, **you’re all set**!
+ 
+ 	- If you already write code but not python, spend **up to 1 hour** reviewing this:
+-	
+ 
+-		- Python cheat sheet & quick reference
++		- [Python cheat sheet & quick reference](https://www.pythoncheatsheet.org/cheatsheet/basics)
+ 
+ 	
+ 
+ 	
+ 
+ 	- If you rarely write code, spend **up to 2 hours** reviewing one of these:
+-	
+ 
+-		- Python tutorial (free) - chapters 3 & 4 are the most relevant for this course
++		- [Python tutorial (free)](https://docs.python.org/3/tutorial/introduction.html) - chapters 3 & 4 are the most relevant for this course
+ 
+-		- Python tutorial (paid) - an interactive tutorial by Codecademy (7-day free trial period)
++		- [Python tutorial (paid)](https://www.codecademy.com/enrolled/courses/learn-python-3) - an interactive tutorial by Codecademy (7-day free trial period)
+ 
+ 	
+ 
+diff --git a/async-reading/class-1-2.md b/async-reading/class-1-2.md
+index ad9f5d5..68e8c82 100644
+--- a/async-reading/class-1-2.md
++++ b/async-reading/class-1-2.md
+@@ -38,7 +38,7 @@ Climate solutions frameworks in general
+ 
+ 	- [Speed & Scale](https://speedandscale.com/tracker/) - John Doerr, 2021-2023
+ 
+-	- [Project Drawdown Foundations](https://drawdown.org/drawdown-foundations) and [Solutions Sectors](https://drawdown.org/sectors) - 2014-2023
++	- [Project Drawdown Solutions](https://drawdown.org/solutions) and [Solutions Sectors](https://drawdown.org/sectors) - 2014-2023
+ 
+  
+ 
+@@ -48,7 +48,7 @@ Software x Climate
+ 
+ 	- [Bits vs atoms: a framework for thinking about climate tech companies](https://www.climatetechlist.com/blog/bits-vs-atoms-framework) - Steven Zhang & My Climate Journey, 2022
+ 
+-	- [What can a technologist do about climate change?](http://worrydream.com/ClimateChange) - Bret Victor, 2015
++	- [What can a technologist do about climate change?](https://worrydream.com/ClimateChange) - Bret Victor, 2015
+ 
+ ![ ](http://res.cloudinary.com/terra-do/image/upload/v1691785524/Events/p0wljys6f6wx2sx77zbc.jpg)
+ 
