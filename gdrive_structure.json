@@ -1,0 +1,311 @@
+{
+  "assignments": {
+    "folder_id": "1tFEIkdHjjIZ_3h5jcvx-0qzpAkvCJgYZ",
+    "url": "https://drive.google.com/drive/folders/1tFEIkdHjjIZ_3h5jcvx-0qzpAkvCJgYZ",
+    "contents": [
+      {
+        "id": "1zYrN4c8akszo64WoS__8e2u4wGirR1Yv",
+        "name": "Archive - Cohorts 1-3",
+        "mimeType": "application/vnd.google-apps.folder",
+        "modifiedTime": "2024-06-03T22:43:21.701Z",
+        "webViewLink": "https://drive.google.com/drive/folders/1zYrN4c8akszo64WoS__8e2u4wGirR1Yv",
+        "path": "Archive - Cohorts 1-3",
+        "type": "folder",
+        "children": [
+          {
+            "id": "1bre12YOxGuRzqboBt0Jd3AjGbhfK8TyQk4NGDGXO_Mc",
+            "name": "Assignment 1.1: Introductions & hardware",
+            "mimeType": "application/vnd.google-apps.document",
+            "modifiedTime": "2024-05-28T18:04:32.443Z",
+            "webViewLink": "https://docs.google.com/document/d/1bre12YOxGuRzqboBt0Jd3AjGbhfK8TyQk4NGDGXO_Mc/edit?usp=drivesdk",
+            "path": "Archive - Cohorts 1-3/Assignment 1.1: Introductions & hardware",
+            "type": "file",
+            "fileType": "Google Doc"
+          },
+          {
+            "id": "1FJuHuAm9eTwgsvYqJwex1SVBzNEahVpFuxcZisOQmac",
+            "name": "Assignment 1.2: Software x Climate landscape",
+            "mimeType": "application/vnd.google-apps.document",
+            "modifiedTime": "2024-05-28T17:41:32.625Z",
+            "webViewLink": "https://docs.google.com/document/d/1FJuHuAm9eTwgsvYqJwex1SVBzNEahVpFuxcZisOQmac/edit?usp=drivesdk",
+            "path": "Archive - Cohorts 1-3/Assignment 1.2: Software x Climate landscape",
+            "type": "file",
+            "fileType": "Google Doc"
+          },
+          {
+            "id": "1bhYLXHHJ9cyVvwwAnVvrkz_nrdW9V1aACuZhO2v8nAk",
+            "name": "Assignment 2.0: Cohort dataset",
+            "mimeType": "application/vnd.google-apps.document",
+            "modifiedTime": "2024-05-28T17:51:28.101Z",
+            "webViewLink": "https://docs.google.com/document/d/1bhYLXHHJ9cyVvwwAnVvrkz_nrdW9V1aACuZhO2v8nAk/edit?usp=drivesdk",
+            "path": "Archive - Cohorts 1-3/Assignment 2.0: Cohort dataset",
+            "type": "file",
+            "fileType": "Google Doc"
+          }
+        ]
+      },
+      {
+        "id": "1ctU3feDrumYTUP5_dX5ulM6fRmjzlg2Pe3cEBtG96UU",
+        "name": "Assignment 1: Introductions & Software x Climate",
+        "mimeType": "application/vnd.google-apps.document",
+        "modifiedTime": "2025-10-03T20:31:28.899Z",
+        "webViewLink": "https://docs.google.com/document/d/1ctU3feDrumYTUP5_dX5ulM6fRmjzlg2Pe3cEBtG96UU/edit?usp=drivesdk",
+        "path": "Assignment 1: Introductions & Software x Climate",
+        "type": "file",
+        "fileType": "Google Doc"
+      },
+      {
+        "id": "16wCa7ktBWGUuDz0ynf5i48PCNvTNgwO6KQUrq9XJ8ZI",
+        "name": "Assignment 2: Utility Data Lab",
+        "mimeType": "application/vnd.google-apps.document",
+        "modifiedTime": "2025-09-24T17:06:10.552Z",
+        "webViewLink": "https://docs.google.com/document/d/16wCa7ktBWGUuDz0ynf5i48PCNvTNgwO6KQUrq9XJ8ZI/edit?usp=drivesdk",
+        "path": "Assignment 2: Utility Data Lab",
+        "type": "file",
+        "fileType": "Google Doc"
+      },
+      {
+        "id": "1MDhS3zajdmSFykbCaFsDyaLCCghHlD6Gs24toWTf1H0",
+        "name": "Assignment 3: Geospatial AI Lab",
+        "mimeType": "application/vnd.google-apps.document",
+        "modifiedTime": "2025-09-24T17:06:22.789Z",
+        "webViewLink": "https://docs.google.com/document/d/1MDhS3zajdmSFykbCaFsDyaLCCghHlD6Gs24toWTf1H0/edit?usp=drivesdk",
+        "path": "Assignment 3: Geospatial AI Lab",
+        "type": "file",
+        "fileType": "Google Doc"
+      },
+      {
+        "id": "16Rgc9PYyysdujA6IrAyzFqIi66-OBtIAObAsZvCBM_o",
+        "name": "Assignment 4: Energy Modeling Lab",
+        "mimeType": "application/vnd.google-apps.document",
+        "modifiedTime": "2025-09-24T17:06:34.429Z",
+        "webViewLink": "https://docs.google.com/document/d/16Rgc9PYyysdujA6IrAyzFqIi66-OBtIAObAsZvCBM_o/edit?usp=drivesdk",
+        "path": "Assignment 4: Energy Modeling Lab",
+        "type": "file",
+        "fileType": "Google Doc"
+      },
+      {
+        "id": "1akxqFiQv8rt1dwMCgyMnZ73t91fwMQtRr1GDgvcYmzs",
+        "name": "Assignment 5: IoT Data Lab",
+        "mimeType": "application/vnd.google-apps.document",
+        "modifiedTime": "2025-10-31T18:35:44.861Z",
+        "webViewLink": "https://docs.google.com/document/d/1akxqFiQv8rt1dwMCgyMnZ73t91fwMQtRr1GDgvcYmzs/edit?usp=drivesdk",
+        "path": "Assignment 5: IoT Data Lab",
+        "type": "file",
+        "fileType": "Google Doc"
+      },
+      {
+        "id": "1FxJHX8x024l17PenIzwXjK-6vZvrhXuOcF_TQckD-oM",
+        "name": "Assignment 6: Final Project",
+        "mimeType": "application/vnd.google-apps.document",
+        "modifiedTime": "2025-09-24T17:07:33.605Z",
+        "webViewLink": "https://docs.google.com/document/d/1FxJHX8x024l17PenIzwXjK-6vZvrhXuOcF_TQckD-oM/edit?usp=drivesdk",
+        "path": "Assignment 6: Final Project",
+        "type": "file",
+        "fileType": "Google Doc"
+      },
+      {
+        "id": "1pEWgv1jVrIb6emeu1_nEtwBLMkjvPCGA8YXotKO58hs",
+        "name": "Jaime Curtis - \"Airbnb for Carbon Credits\" (Example Project Pitch)",
+        "mimeType": "application/vnd.google-apps.document",
+        "modifiedTime": "2025-03-14T15:32:50.891Z",
+        "webViewLink": "https://docs.google.com/document/d/1pEWgv1jVrIb6emeu1_nEtwBLMkjvPCGA8YXotKO58hs/edit?usp=drivesdk",
+        "path": "Jaime Curtis - \"Airbnb for Carbon Credits\" (Example Project Pitch)",
+        "type": "file",
+        "fileType": "Google Doc"
+      },
+      {
+        "id": "1riMg-wRMyTXGow-1QS45AtULwnnRmddWARoHQa3P8TI",
+        "name": "Jaime Curtis - \"Netflix for Climate\" (Example Project Pitch)",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-03-14T15:32:26.872Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1riMg-wRMyTXGow-1QS45AtULwnnRmddWARoHQa3P8TI/edit?usp=drivesdk",
+        "path": "Jaime Curtis - \"Netflix for Climate\" (Example Project Pitch)",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1zlkNKxx2M2LYjrYbqlCH2LzRKd5LUsKFu3ZjjBA1E_w",
+        "name": "Sample Assignment",
+        "mimeType": "application/vnd.google-apps.document",
+        "modifiedTime": "2023-10-19T12:02:54.500Z",
+        "webViewLink": "https://docs.google.com/document/d/1zlkNKxx2M2LYjrYbqlCH2LzRKd5LUsKFu3ZjjBA1E_w/edit?usp=drivesdk",
+        "path": "Sample Assignment",
+        "type": "file",
+        "fileType": "Google Doc"
+      }
+    ],
+    "counts": {
+      "folders": 1,
+      "files": 12,
+      "docs": 11,
+      "slides": 1,
+      "sheets": 0,
+      "other": 0
+    }
+  },
+  "live_sessions": {
+    "folder_id": "1dsUc8YSBKRjMwFpNGa0gxsfsBSvFJmrK",
+    "url": "https://drive.google.com/drive/folders/1dsUc8YSBKRjMwFpNGa0gxsfsBSvFJmrK",
+    "contents": [
+      {
+        "id": "1nDeqXcC5y4b-SB8h7XFUhENtqSqnp3Sa3tCTg6tAb1w",
+        "name": "1.1 Introductions",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-02-11T16:46:52.643Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1nDeqXcC5y4b-SB8h7XFUhENtqSqnp3Sa3tCTg6tAb1w/edit?usp=drivesdk",
+        "path": "1.1 Introductions",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "16Y7ZX3ziWtquXznIZKPi-O-7G_EKzD5ih6bTo42h3Nk",
+        "name": "1.2 Software x Climate landscape",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-10-03T15:51:28.757Z",
+        "webViewLink": "https://docs.google.com/presentation/d/16Y7ZX3ziWtquXznIZKPi-O-7G_EKzD5ih6bTo42h3Nk/edit?usp=drivesdk",
+        "path": "1.2 Software x Climate landscape",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1l6bttcVFgJXVcHr1Ty50majYMiJZVZf0OgK4QeQmSVs",
+        "name": "2.1 Public Data Sources",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-10-07T15:52:27.704Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1l6bttcVFgJXVcHr1Ty50majYMiJZVZf0OgK4QeQmSVs/edit?usp=drivesdk",
+        "path": "2.1 Public Data Sources",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1oDxtyoscmPz1fip2nsPO53h-41CGKoWanMXZhCz4NQY",
+        "name": "2.2 Public Data Sources",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-10-10T15:57:55.198Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1oDxtyoscmPz1fip2nsPO53h-41CGKoWanMXZhCz4NQY/edit?usp=drivesdk",
+        "path": "2.2 Public Data Sources",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1mg1hsDKe72mrtulIH4YQWuPoBmO3-rLVP0NbMGhKcQc",
+        "name": "3.1 Geospatial AI",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-10-14T15:39:23.073Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1mg1hsDKe72mrtulIH4YQWuPoBmO3-rLVP0NbMGhKcQc/edit?usp=drivesdk",
+        "path": "3.1 Geospatial AI",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1AHh4W-0GtNEsj64BqMPE4R7Ep9aq6uCQKjGm-BesHvI",
+        "name": "3.2 Geospatial AI",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-10-17T15:52:31.889Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1AHh4W-0GtNEsj64BqMPE4R7Ep9aq6uCQKjGm-BesHvI/edit?usp=drivesdk",
+        "path": "3.2 Geospatial AI",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1xo-6zr-xpWYZusy3JyX5DZlu8AXTKZddBMY-uITHrQ4",
+        "name": "4.1 Energy Modeling",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2024-10-22T15:52:00.849Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1xo-6zr-xpWYZusy3JyX5DZlu8AXTKZddBMY-uITHrQ4/edit?usp=drivesdk",
+        "path": "4.1 Energy Modeling",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1cSGwYpwMuoAMAU-rCV3AiHhICFXW3v-4KuWvf0Gvgms",
+        "name": "4.2 Energy Modeling",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-10-24T15:59:01.618Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1cSGwYpwMuoAMAU-rCV3AiHhICFXW3v-4KuWvf0Gvgms/edit?usp=drivesdk",
+        "path": "4.2 Energy Modeling",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1SnPia35JLVq2elnUfQ5eGQMX-P0eSNxWYjQr9Yl8Njc",
+        "name": "5.1 Software/Hardware Interface",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-03-11T17:34:02.476Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1SnPia35JLVq2elnUfQ5eGQMX-P0eSNxWYjQr9Yl8Njc/edit?usp=drivesdk",
+        "path": "5.1 Software/Hardware Interface",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1MpxD4qC11_hylSNghLfQIjOrDCG5VygCw-pBIwjDzFY",
+        "name": "5.2 Software/Hardware Interface",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-10-31T15:56:14.025Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1MpxD4qC11_hylSNghLfQIjOrDCG5VygCw-pBIwjDzFY/edit?usp=drivesdk",
+        "path": "5.2 Software/Hardware Interface",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1JwjwEUkGjoWcFrepRnjp4hFV28tX8awVlZNidxxTet4",
+        "name": "6.1 Final Project Pitches",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-11-04T16:48:05.174Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1JwjwEUkGjoWcFrepRnjp4hFV28tX8awVlZNidxxTet4/edit?usp=drivesdk",
+        "path": "6.1 Final Project Pitches",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1gfWm6YmP5oLN1kcPKNr9xmbKzkfzGO4ctfADQKwr6u8",
+        "name": "7.2 Final Project Peer Reviews",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-03-28T15:56:26.341Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1gfWm6YmP5oLN1kcPKNr9xmbKzkfzGO4ctfADQKwr6u8/edit?usp=drivesdk",
+        "path": "7.2 Final Project Peer Reviews",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1ADYIKgatE-LiWNZ7dmEj-IltaLgsuilaB2Ta3MYzG9I",
+        "name": "8.1 Final Project Presentations",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2024-08-20T15:04:11.687Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1ADYIKgatE-LiWNZ7dmEj-IltaLgsuilaB2Ta3MYzG9I/edit?usp=drivesdk",
+        "path": "8.1 Final Project Presentations",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1gcQLuMOYk0EeeVmGBK6x2e_4VL-IsUnmVWcixLluB3M",
+        "name": "8.2 Final Project Presentations",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-03-31T17:34:39.957Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1gcQLuMOYk0EeeVmGBK6x2e_4VL-IsUnmVWcixLluB3M/edit?usp=drivesdk",
+        "path": "8.2 Final Project Presentations",
+        "type": "file",
+        "fileType": "Google Slides"
+      },
+      {
+        "id": "1ythJXcD_j39mz0N0AeTdJT6pYfXECKDOf0ncWAfL4-k",
+        "name": "Copy of 4.2 Energy Modeling",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "modifiedTime": "2025-10-24T17:37:28.376Z",
+        "webViewLink": "https://docs.google.com/presentation/d/1ythJXcD_j39mz0N0AeTdJT6pYfXECKDOf0ncWAfL4-k/edit?usp=drivesdk",
+        "path": "Copy of 4.2 Energy Modeling",
+        "type": "file",
+        "fileType": "Google Slides"
+      }
+    ],
+    "counts": {
+      "folders": 0,
+      "files": 15,
+      "docs": 0,
+      "slides": 15,
+      "sheets": 0,
+      "other": 0
+    }
+  }
+}
