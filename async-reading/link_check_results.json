@@ -1,0 +1,167 @@
+[
+  {
+    "url": "https://hex.tech/blog/beginners-guide-to-python-notebooks/",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://hex.tech/blog/beginners-guide-to-python-notebooks/",
+    "redirected": false
+  },
+  {
+    "url": "https://speedandscale.com/tracker/",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://speedandscale.com/tracker/",
+    "redirected": false
+  },
+  {
+    "url": "https://drawdown.org/drawdown-foundations",
+    "status": 403,
+    "ok": false,
+    "error": "Forbidden"
+  },
+  {
+    "url": "https://drawdown.org/sectors",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://drawdown.org/explorer#redirect",
+    "redirected": true
+  },
+  {
+    "url": "https://www.climatepapa.com/software",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.climatepapa.com/software",
+    "redirected": false
+  },
+  {
+    "url": "https://www.climatetechlist.com/blog/bits-vs-atoms-framework",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.climatetechlist.com/blog/bits-vs-atoms-framework",
+    "redirected": false
+  },
+  {
+    "url": "http://worrydream.com/ClimateChange",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://worrydream.com/ClimateChange/",
+    "redirected": true
+  },
+  {
+    "url": "https://www.epa.gov/egrid/power-profiler#/",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.epa.gov/egrid/power-profiler#/",
+    "redirected": false
+  },
+  {
+    "url": "https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48",
+    "status": null,
+    "ok": false,
+    "error": "The read operation timed out"
+  },
+  {
+    "url": "https://www.gridstatus.io/",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.gridstatus.io/",
+    "redirected": false
+  },
+  {
+    "url": "https://climatetechlist.com/charts",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.climatetechlist.com/charts",
+    "redirected": true
+  },
+  {
+    "url": "https://riskfactor.com/",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://firststreet.org/?from=riskfactor.com",
+    "redirected": true
+  },
+  {
+    "url": "https://www.ctvc.co/inside-methane-monitorings-big-moment/",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.ctvc.co/inside-methane-monitorings-big-moment/",
+    "redirected": false
+  },
+  {
+    "url": "https://www.maaproject.org/maap-212-machine-learning-to-detect-mining-deforestation-across-the-amazon/",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.maaproject.org/maap-212-machine-learning-to-detect-mining-deforestation-across-the-amazon/",
+    "redirected": false
+  },
+  {
+    "url": "https://blog.google/outreach-initiatives/sustainability/how-satellites-algorithms-and-ai-can-help-map-and-trace-methane-sources/",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/how-satellites-algorithms-and-ai-can-help-map-and-trace-methane-sources/",
+    "redirected": true
+  },
+  {
+    "url": "https://climate.benjames.io/ai-go-brrr/",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://climate.benjames.io/ai-go-brrr/",
+    "redirected": false
+  },
+  {
+    "url": "https://assets.jpmprivatebank.com/content/dam/jpm-wm-aem/campaign/energy-paper-13/growing-pains-renewable-transition-in-adolescence.pdf",
+    "status": 404,
+    "ok": false,
+    "error": "Not Found"
+  },
+  {
+    "url": "https://www.volts.wtf/p/whats-the-deal-with-interconnection",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.volts.wtf/p/whats-the-deal-with-interconnection",
+    "redirected": false
+  },
+  {
+    "url": "https://content.aia.org/sites/default/files/2016-04/Energy-Modeling-Design-Process-Guide.pdf",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.aia.org:443/",
+    "redirected": true
+  },
+  {
+    "url": "https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware",
+    "redirected": false
+  },
+  {
+    "url": "https://www2.deloitte.com/content/dam/insights/us/articles/manufacturing-ecosystems-exploring-world-connected-enterprises/DUP_2898_Industry4.0ManufacturingEcosystems.pdf",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.deloitte.com/content/dam/insights/articles/2024/manufacturing-ecosystems-exploring-world-connected-enterprises/dup-2898-industry4.0manufacturingecosystems.pdf",
+    "redirected": true
+  },
+  {
+    "url": "https://excelpro.ca/en/news/the-automation-pyramid-isa-95",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://excelpro.ca/en/news/the-automation-pyramid-isa-95",
+    "redirected": false
+  },
+  {
+    "url": "https://www.reddit.com/r/PLC/comments/2a5g4q/comment/ciry1u2/",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.reddit.com/r/PLC/comments/2a5g4q/comment/ciry1u2/",
+    "redirected": false
+  },
+  {
+    "url": "https://www.solisplc.com/tutorials/how-to-read-ladder-logic",
+    "status": 200,
+    "ok": true,
+    "final_url": "https://www.solisplc.com/tutorials/how-to-read-ladder-logic",
+    "redirected": false
+  }
+]
