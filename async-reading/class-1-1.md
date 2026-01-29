@@ -28,11 +28,11 @@ This is a cohort-based course. It runs for eight weeks, with two classes per wee
 
 	- **Async reading** materials, presented in slides like this one
 
-	- **Live sessions** involving lecutures, audience participation, group discussions, and Q&A
+	- **Live sessions** involving lectures, audience participation, group discussions, and Q&A
 
 	- **Homework** assignments
 
-Additionally, we have a **cohort slack channel **for ad hoc communication with the instructors and your fellows in the cohort
+Additionally, we have a **cohort Slack channel** for ad hoc communication with the instructors and your fellows in the cohort
 
  
 
@@ -103,7 +103,7 @@ Depending on your familiarity with code in general and **Python** specifically, 
 	- If you already write code but not python, spend **up to 1 hour** reviewing this:
 	
 
-		- Python cheat sheet & quick reference
+		- [Python cheat sheet & quick reference](https://www.pythoncheatsheet.org/)
 
 	
 
@@ -112,9 +112,9 @@ Depending on your familiarity with code in general and **Python** specifically, 
 	- If you rarely write code, spend **up to 2 hours** reviewing one of these:
 	
 
-		- Python tutorial (free) - chapters 3 & 4 are the most relevant for this course
+		- [Python tutorial (free)](https://docs.python.org/3/tutorial/) - chapters 3 & 4 are the most relevant for this course
 
-		- Python tutorial (paid) - an interactive tutorial by Codecademy (7-day free trial period)
+		- [Python tutorial (paid)](https://www.codecademy.com/learn/learn-python-3) - an interactive tutorial by Codecademy (7-day free trial period)
 
 	
 

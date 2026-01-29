@@ -56,7 +56,7 @@ All external resources referenced in the SFC async reading materials.
 - **Section:** Resources
 - **Type:** article
 
-### [Project Drawdown Foundations](https://drawdown.org/drawdown-foundations)
+### [Project Drawdown Solutions](https://drawdown.org/solutions)
 
 - **Course:** `software-for-climate-1-2`
 - **Section:** Resources
@@ -74,7 +74,7 @@ All external resources referenced in the SFC async reading materials.
 - **Section:** Resources
 - **Type:** article
 
-### [What can a technologist do about climate change?](http://worrydream.com/ClimateChange)
+### [What can a technologist do about climate change?](https://worrydream.com/ClimateChange)
 
 - **Course:** `software-for-climate-1-2`
 - **Section:** Resources
@@ -169,11 +169,11 @@ All external resources referenced in the SFC async reading materials.
 ```
 https://hex.tech/blog/beginners-guide-to-python-notebooks/
 https://speedandscale.com/tracker/
-https://drawdown.org/drawdown-foundations
+https://drawdown.org/solutions
 https://drawdown.org/sectors
 https://www.climatepapa.com/software
 https://www.climatetechlist.com/blog/bits-vs-atoms-framework
-http://worrydream.com/ClimateChange
+https://worrydream.com/ClimateChange
 https://www.epa.gov/egrid/power-profiler#/
 https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48
 https://www.gridstatus.io/

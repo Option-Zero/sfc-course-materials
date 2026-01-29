@@ -38,7 +38,7 @@ Climate solutions frameworks in general
 
 	- [Speed & Scale](https://speedandscale.com/tracker/) - John Doerr, 2021-2023
 
-	- [Project Drawdown Foundations](https://drawdown.org/drawdown-foundations) and [Solutions Sectors](https://drawdown.org/sectors) - 2014-2023
+	- [Project Drawdown Solutions](https://drawdown.org/solutions) and [Solutions Sectors](https://drawdown.org/sectors) - 2014-2023
 
  
 
@@ -48,7 +48,7 @@ Software x Climate
 
 	- [Bits vs atoms: a framework for thinking about climate tech companies](https://www.climatetechlist.com/blog/bits-vs-atoms-framework) - Steven Zhang & My Climate Journey, 2022
 
-	- [What can a technologist do about climate change?](http://worrydream.com/ClimateChange) - Bret Victor, 2015
+	- [What can a technologist do about climate change?](https://worrydream.com/ClimateChange) - Bret Victor, 2015
 
 ![ ](http://res.cloudinary.com/terra-do/image/upload/v1691785524/Events/p0wljys6f6wx2sx77zbc.jpg)
 

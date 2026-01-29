@@ -13,11 +13,11 @@ Review completed: 2026-01-28
 
 ## Broken Links (Action Required)
 
-### 1. Project Drawdown Foundations
-- **Current URL:** https://drawdown.org/drawdown-foundations
-- **Issue:** Returns 403 Forbidden (may be blocking automated requests)
-- **Status:** URL appears valid in browser, may just need manual verification
-- **Recommendation:** Test manually; if still broken, the content is now part of [Drawdown Explorer](https://drawdown.org/news/project-drawdown-launches-drawdown-explorer-the-worlds-most-comprehensive-climate-solutions)
+### 1. ~~Project Drawdown Foundations~~ FIXED
+- **Original URL:** https://drawdown.org/drawdown-foundations
+- **Issue:** Returns 403 Forbidden
+- **Resolution:** Updated to https://drawdown.org/solutions (working, same content)
+- **Fixed:** 2026-01-28 (scm-5qq)
 - **Course:** software-for-climate-1-2
 
 ### 2. EIA Hourly Electric Grid Monitor
